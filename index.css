@@ -1,0 +1,43 @@
+body {
+    background-color: #121212;
+    color: #fff;
+}
+.container {
+    max-width: 1200px;
+}
+h1  {
+    color: #fff;
+    text-align: center;
+    padding: 0.9rem;
+    font-size: 3rem;
+}
+.setup-box { 
+    padding: 2rem;
+}
+.fokep {
+    display: block;
+    margin: auto;
+    scale: 70%;   
+}
+h3 {
+    text-align: center;
+}
+#pc {
+    text-align: left;
+    padding: 1.2rem;
+}
+.products-tags {
+    text-align: center;
+    margin-top: 1rem;
+}
+.termeksor {
+    margin-bottom: 3rem;
+}
+.fokep-animation {
+    animation: Box-shadow-animation 5s infinite;
+    border-radius: 40rem;
+
+}
+@keyframes Box-shadow-animation {
+    50% {box-shadow: 0 0.3rem 2.2rem 0 #05cdf5}
+}

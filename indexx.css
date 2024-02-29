@@ -1,0 +1,38 @@
+.gombok {
+    margin-top: 50px;
+    
+}
+
+.gomb {
+    height: 80px;
+    margin-bottom: 10px;
+    opacity: 0.85;
+    
+}
+.gomb:hover {
+    opacity: 1;
+}
+.gomb2 {
+    
+    margin-bottom: 10px;
+    opacity: 0.95;
+    color: white;
+    
+}
+
+.special-btn {
+    background: linear-gradient(90deg, rgb(20, 241, 31) 0%, rgb(6, 154, 240) 100% );
+    border: 2px solid black;
+}
+.gomb2 {
+    
+    margin-bottom: 10px;
+    opacity: 0.95;
+    color: white;
+    
+}
+.gomb2:hover {
+    opacity: 1;
+    color: white;
+    box-shadow: 0 1rem 2rem 0 rgba(14, 101, 233, 0.5);
+}
